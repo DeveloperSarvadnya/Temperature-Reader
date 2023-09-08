@@ -7,7 +7,7 @@
 #define DHTTYPE DHT11 // Name the sensor as an object
 DHT dht(DHTPIN, DHTTYPE);
 char auth[]="SiQAJX1HYQ1-QfcHqBW3jBx6Wmt4PwHu";
-char ssid[] = "Redmi Note 9";
+char ssid[] = "WiFi Name";
 char pass[]="12345678";
 
 
